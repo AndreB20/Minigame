@@ -1,0 +1,32 @@
+﻿  game.cpp
+C:\Users\user\Desktop\2022_win32\game.cpp(82,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(145,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(148,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(154,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(185,15): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(187,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(225,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(233,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(239,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(324,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(330,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(363,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(379,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(399,13): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(400,13): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(431,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(432,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(443,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(453,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(454,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(463,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(473,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(499,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(547,28): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\user\Desktop\2022_win32\game.cpp(624,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(625,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\2022_win32\game.cpp(660,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\2022_win32\game.cpp(668,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Desktop\2022_win32\game.cpp(647,9): warning C4101: 'y': unreferenced local variable
+C:\Users\user\Desktop\2022_win32\game.cpp(647,6): warning C4101: 'x': unreferenced local variable
+  Intern.vcxproj -> C:\Users\user\Desktop\2022_win32\Debug\Intern.exe
